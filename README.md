@@ -1,55 +1,74 @@
 # 👋 Hi, I'm Kumkum Soni
 
-### 💻 Frontend Developer | React.js | JavaScript
+### 💻 Software Developer | Frontend Developer | Data Analyst
 
-I’m an MCA graduate focused on building modern, responsive and user-friendly web applications.
+I’m an MCA graduate with a strong interest in Software Development, Frontend Development and Data Analytics.
 
-🔭 Currently building real-world frontend projects using React.js, JavaScript, HTML and CSS.
+🔭 Currently building real-world applications using JavaScript, React.js, HTML, CSS and modern development practices.
 
-🌱 Currently improving my skills in advanced React.js, frontend architecture, APIs and responsive UI development.
+🌱 Currently improving my skills in Data Structures & Algorithms, Java, React.js, APIs, SQL and problem-solving.
 
-💡 I enjoy turning ideas into practical applications and solving real-world problems through code.
+💡 I enjoy building practical applications, analyzing data and solving real-world problems through code.
 
-📊 I also have an interest in Data Analytics and work with SQL, Python and Power BI.
+📊 I also have hands-on experience with Python, SQL, Power BI, Tableau and Excel for data analysis and visualization.
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kumkum-soni-9989b4214/)
 
 ---
 
+## 🎯 Career Interests
+
+I am actively looking for opportunities in:
+
+- 💻 Software Development / SDE
+- 🌐 Frontend Development
+- 📊 Data Analytics
+
+### Interested in working with:
+
+`Java` `JavaScript` `React.js` `DSA` `SQL` `Python` `REST APIs`
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
-### 🌐 Frontend Development
+### 💻 Programming & Development
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 📊 Data & Analytics
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📊 Sorting Algorithm Visualizer
+## 📊 Sorting Algorithm Visualizer
 
 An interactive web application that visualizes popular sorting algorithms step-by-step to make algorithm concepts easier to understand.
 
-**Planned Features:**
+### Features
+
 - 🔄 Bubble Sort
 - 🎯 Selection Sort
 - 📝 Insertion Sort
@@ -68,11 +87,12 @@ An interactive web application that visualizes popular sorting algorithms step-b
 
 ---
 
-### 👩‍💼 Employee Management System
+## 👩‍💼 Employee Management System
 
 A modern employee management application designed to manage employees, tasks and workflow through a responsive web interface.
 
-**Planned Features:**
+### Features
+
 - 🔐 Login and role-based access
 - 👥 Employee management
 - ➕ Add, edit and delete employees
@@ -83,39 +103,82 @@ A modern employee management application designed to manage employees, tasks and
 - 💾 LocalStorage data persistence
 - 📱 Responsive interface
 
-**Tech Stack:** `React.js` `Tailwind CSS` `JavaScript` `LocalStorage`
-
-> 🚧 Planned
-
----
-
-## 📊 Data Analytics Projects
-
-### 🎬 Netflix Content Analysis
-
-An exploratory data analytics project focused on analyzing Netflix movies and TV shows to identify content trends and patterns.
-
-**Key Analysis:**
-- 🎥 Movies vs TV Shows
-- 🌍 Country-wise content distribution
-- 📅 Content release trends
-- 🎭 Genre analysis
-- ⭐ Rating distribution
-- ⏱️ Movie duration analysis
-- 📈 Year-wise content growth
-- 🔎 Data-driven insights
-
-**Tech Stack:** `Python` `Pandas` `Matplotlib` `Seaborn`
+**Tech Stack:** `React.js` `JavaScript` `Tailwind CSS` `LocalStorage`
 
 > 🚧 Currently Building
 
 ---
 
-### 💎 OmDivyJewellers — Sales Analytics Dashboard
+# 📊 Data Analytics Projects
+
+## 📱 PhonePe Digital Payment Analysis
+
+A data analytics project focused on analyzing digital payment transactions to identify transaction trends, state-wise performance, payment patterns and overall digital payment growth.
+
+### Key Analysis
+
+- 💳 Transaction volume and value analysis
+- 📍 State-wise transaction performance
+- 📅 Year-wise and quarterly trends
+- 📊 Transaction type analysis
+- 💰 Payment amount analysis
+- 📈 Growth and trend analysis
+- 🔎 Business insights from transaction data
+
+**Tech Stack:** `Python` `SQL` `Power BI` `Excel`
+
+🔗 **[View Project on GitHub](https://github.com/sonikumkum/PhonePe-Digital-Payment-Analysis)**
+
+---
+
+## 🛒 E-Commerce Sales Analysis
+
+A data analytics project focused on analyzing e-commerce sales data to understand sales performance, customer behavior, product performance and business trends.
+
+### Key Analysis
+
+- 💰 Sales and revenue analysis
+- 📦 Product-wise performance
+- 👥 Customer analysis
+- 🌍 Regional sales analysis
+- 📅 Monthly and yearly sales trends
+- 💳 Payment method analysis
+- 📊 Interactive dashboard
+- 🔎 Data-driven business insights
+
+**Tech Stack:** `Python` `SQL` `Power BI` `Excel`
+
+🔗 **[View Project on GitHub](https://github.com/sonikumkum/E-Commerce-Sales-Analysis)**
+
+---
+
+## 🎬 Netflix Content Analysis Dashboard
+
+An interactive data analytics and visualization project analyzing Netflix Movies and TV Shows to identify content trends, ratings, countries, genres and content distribution.
+
+### Key Analysis
+
+- 🎥 Movies vs TV Shows
+- 🌍 Country-wise content distribution
+- ⭐ Rating analysis
+- 🎭 Genre analysis
+- 📅 Content addition trends
+- 📈 Year-wise content growth
+- 🔎 Interactive dashboard
+- 💡 Data-driven insights
+
+**Tech Stack:** `Python` `Pandas` `MySQL` `Tableau`
+
+🔗 **[View Project on GitHub](https://github.com/sonikumkum/Netflix-Content-Analysis-Dashboard)**
+
+---
+
+## 💎 OmDivyJewellers — Sales Analytics Dashboard
 
 A real-world sales analytics project focused on analyzing gold and silver jewellery sales and generating useful business insights.
 
-**Key Analysis:**
+### Key Analysis
+
 - 💰 Sales and revenue analysis
 - 🥇 Gold vs Silver performance
 - 💍 Product-wise sales analysis
@@ -131,34 +194,58 @@ A real-world sales analytics project focused on analyzing gold and silver jewell
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
+
+### 💻 Software Development
+
+- ☕ Java
+- 🧠 Data Structures & Algorithms
+- 🔧 Object-Oriented Programming
+- 🌐 REST APIs
+- 🗄️ SQL & Databases
+- 🧩 Problem Solving
+
+### 🌐 Frontend Development
 
 - ⚛️ Advanced React.js
 - 🟨 Modern JavaScript
-- 🎨 Advanced CSS & Responsive Design
-- 🔗 REST APIs
+- 🎨 Advanced CSS
+- 📱 Responsive Web Design
 - 🧩 React Component Architecture
-- 🌿 Git & GitHub
-- 📊 Data Analytics
-- 📈 Power BI & SQL
+- 🔗 API Integration
+
+### 📊 Data Analytics
+
+- 🐍 Python for Data Analysis
+- 🗃️ SQL
+- 📊 Power BI
+- 📈 Tableau
+- 📗 Excel
+- 📊 Data Visualization
 
 ---
 
-## 🎯 Career Focus
+# 🎯 Career Focus
 
-I’m currently focused on becoming a strong **Frontend Developer** by building practical projects, improving problem-solving skills and learning modern development practices.
+I am actively building my skills across **Software Development, Frontend Development and Data Analytics**.
 
-I’m particularly interested in opportunities where I can work with:
+### 💻 Software Development
 
-`React.js` `JavaScript` `HTML` `CSS` `REST APIs`
+`Java` `DSA` `OOP` `SQL` `REST APIs`
 
-I’m also developing practical skills in:
+### 🌐 Frontend Development
 
-`SQL` `Python` `Power BI` `Data Analytics`
+`React.js` `JavaScript` `HTML` `CSS` `Bootstrap`
+
+### 📊 Data Analytics
+
+`Python` `SQL` `Power BI` `Tableau` `Excel`
+
+I am looking for opportunities where I can apply my technical skills, solve real-world problems and continue learning as a software and data professional.
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/kumkum-soni-9989b4214/)
 
@@ -167,3 +254,5 @@ I’m also developing practical skills in:
 ---
 
 ⭐ Thanks for visiting my profile!
+
+⭐ Feel free to explore my repositories and projects.
